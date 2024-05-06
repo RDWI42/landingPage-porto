@@ -5,7 +5,7 @@
             🗺• Our Library Location
         </h1>
         <div class="mt-[80px]">
-            <img class="shadow-2xl" src="../assets/location.png" alt="">
+            <img class="shadow-2xl" src="../assets/Location.png" alt="">
         </div>
     </div>
 </template>
