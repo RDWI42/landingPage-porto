@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import FooterVue from './components/Footer.vue';
-import HelloWorld from './components/HelloWorld.vue'
 import Navbar from './components/Navbar.vue';
 import FifthPageVue from './page/FifthPage.vue';
 import FirstPage from './page/FirstPage.vue';
