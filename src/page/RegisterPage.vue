@@ -57,7 +57,7 @@
     </div>
 </template>
 
-<script>
+<script lang="ts">
 import { defineComponent } from 'vue';
 import FormInputVue from '../components/FormInput.vue';
 import RadioButtonVue from '../components/RadioButton.vue';
@@ -70,7 +70,6 @@ export default defineComponent({
     methods:{
         linkHome() {
             this.$router.push({ name: 'Home' })
-            console.log('cek')
         },
     }
 })

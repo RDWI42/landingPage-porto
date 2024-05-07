@@ -1,8 +1,7 @@
 // MyRadioButton.vue
 <template>
     <div class="flex items-center">
-        <input :id="id" type="radio" :name="name" :value="value" class="hidden"
-            @input="$emit('input', $event.target.value)" />
+        <input :id="id" type="radio" :name="name" class="hidden"/>
         <label :for="id" class="cursor-pointer relative">
             <span class="font-bold text-desc text-[14px] absolute top-[4px]">{{ label }}</span>
         </label>
