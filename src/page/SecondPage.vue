@@ -4,7 +4,7 @@
         <h1 class="text-[25px] md:text-[45px] font-extrabold tracking-[-1px] mt-3">
             🤔• What You Can Do?
         </h1>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-2 mt-[80px]">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-2 mt-[50px] md:mt-[80px]">
             <div class="p-[10px] h-auto text-center">
                 <button class="bg-primary1 p-[25px] rounded-icon w-auto shadow-2xl">
                     <font-awesome-icon class="text-[35px] text-white" :icon="['fas', 'magnifying-glass']" />

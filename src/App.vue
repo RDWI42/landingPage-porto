@@ -1,30 +1,9 @@
 <script setup lang="ts">
-import FooterVue from './components/Footer.vue';
-import Navbar from './components/Navbar.vue';
-import FifthPageVue from './page/FifthPage.vue';
-import FirstPage from './page/FirstPage.vue';
-import FourthPageVue from './page/FourthPage.vue';
-import SecondPageVue from './page/SecondPage.vue';
-import ThirdPageVue from './page/ThirdPage.vue';
+
 </script>
 
 <template>
-  <!-- <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
-  </div>
-  <HelloWorld msg="Vite + Vue" /> -->
-  <Navbar/>
-  <FirstPage/>
-  <SecondPageVue></SecondPageVue>
-  <ThirdPageVue/>
-  <FourthPageVue/>
-  <FifthPageVue/>
-  <FooterVue/>
+  <router-view/>
 </template>
 
 <style scoped>

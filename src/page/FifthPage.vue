@@ -4,7 +4,7 @@
         <h1 class="text-[25px] md:text-[45px] font-extrabold tracking-[-1px] mt-3">
             🗺• Our Library Location
         </h1>
-        <div class="mt-[80px]">
+        <div class="mt-[50px] md:mt-[80px]">
             <img class="shadow-2xl" src="../assets/Location.png" alt="">
         </div>
     </div>

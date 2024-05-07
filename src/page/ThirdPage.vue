@@ -4,7 +4,7 @@
         <h1 class="text-[25px] md:text-[45px] font-extrabold tracking-[-1px] mt-3">
             🚀• The Services for You
         </h1>
-        <div class="mt-[80px]">
+        <div class="mt-[50px] md:mt-[80px]">
             <div class="block lg:flex">
                 <img src="../assets/picture1.png" class="lg:mr-[100px] w-[85%] shadow-2xl" alt="">
                 <div>

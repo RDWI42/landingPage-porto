@@ -7,7 +7,8 @@ export default {
   theme: {
     borderRadius: {
       'login': '12px',
-      'icon': '20px'
+      'icon': '20px',
+      '5px': '5px'
     },
     extend: {
       colors:{

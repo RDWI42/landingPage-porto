@@ -4,7 +4,7 @@
         <h1 class="text-[25px] md:text-[45px] font-extrabold tracking-[-1px] mt-3">
             💬• Reviews of Others
         </h1>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-[50px] mt-[80px]">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-[50px] mt-[50px] md:mt-[80px]">
             <div class="px-[20px] h-auto text-center border border-border py-[40px] shadow-2xl">
                 <font-awesome-icon class="text-[140px] text-primary1" :icon="['fas', 'circle-user']" />
                 <div class="flex justify-center mt-6">
