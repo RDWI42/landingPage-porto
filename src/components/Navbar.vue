@@ -1,6 +1,6 @@
 <template>
     <nav :class="{ 'bg-transparent': !scrolled, 'bg-primary1 border-b-2 border-[#4737FF]': scrolled }"
-        class="sticky top-0 z-50 py-[10px] px-[30px] md:px-[100px]">
+        class="sticky top-0 z-50 py-[10px] px-[30px] duration-[0.2s] md:px-[100px]">
         <div class="container mx-auto">
             <div class="grid grid-cols-6">
                 <a href="#home" class="flex space-x-2 items-center">
